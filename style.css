@@ -1,0 +1,57 @@
+
+
+
+@import url('https://fonts.googleapis.com/css2?family=Klee+One:wght@600&display=swap');
+
+#birthday {
+    color: rgb(185, 90, 90);
+    font-size: 60px;
+}
+.birth {
+    text-align:center;
+    font-family: 'Klee One', cursive;
+
+}
+#inputdate {
+    margin: 20px;
+}
+#button {
+    margin: 30px;
+    color: rgb(2, 2, 41);
+    background-color: white;
+    font-weight:900;
+    border-color: rgb(130, 233, 139);
+    border-width: medium;
+    padding: 7px;
+    border-radius: 5px;
+    margin-top: 60px;
+}
+.body {
+    background-color: rgb(35, 59, 11);
+    color: rgb(185, 90, 90) ;
+    
+}
+#dob {
+    font-size: 30px;
+}
+#ln {
+    font-size: 31px;
+}
+#inputdate {
+    padding: 10px 15px;
+}
+#inputnumber {
+    padding: 10px 15px;
+    margin-left: 5px;
+}
+
+.luckyImg, .unluckyImg{
+    height: 200px;
+    width: 200px;
+}
+
+.imgDisplay{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
